@@ -1,0 +1,39 @@
+     < < BOT STORE X CPANEL > >
+
+/////                    /////
+
+    RECODE & REBUILD BY RYNXD
+    BASE ORI DGXEON
+
+/////                    /////
+
+////!   WARNING   !////
+
+- JANGAN HAPUS BAGIAN INI!!!
+
+- REUPLOAD ? TAG YT GUA!
+
+////    PANDUAN    ////
+
+  SET QRIS : ./src/image/qris.jpg
+
+  BOT SETINGS : ./setting.js
+
+
+
+
+  SELENGKAPNYA : 
+
+  https://youtube.com/@RynXDHost
+
+////                  ////
+
+/////    THANKS TO    /////
+
+  RYNXD (ME) :   https://profile.rynxd.link
+  FRTEAM: 
+  FAUZI DEV -SEPUH FR : https://github.com/oziispedzz
+  LUTHFI
+  OKTA
+  
+  
